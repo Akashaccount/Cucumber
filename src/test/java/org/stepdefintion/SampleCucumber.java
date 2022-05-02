@@ -84,6 +84,7 @@ public class SampleCucumber extends BaseClass {
 			System.out.println("Pass");
 			}
 		System.out.println("Not Pass");
+		System.out.println("Sucuessfully Completed Program");
 	}
 
 
