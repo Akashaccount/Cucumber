@@ -31,6 +31,8 @@ public class SampleCucumber extends BaseClass {
 	}
 	@When("user have to enter valid Email and Password")
 	public void user_have_to_enter_valid_Email_and_Password() {
+		System.out.println("AKASH");
+		System.out.println("Rajkumaran");
 
 	}
 	
